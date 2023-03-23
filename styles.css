@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+img{
+	width:100px;
+	padding:5px
+	
+}header{
+	width:100%;
+	background:rgb(1,30,41);
+	color:white;
+	padding:20px;
+	display:flex;
+/* 	text-align: center; */
+	justify-content:center;
+
+	
+}.main{
+	display:flex;
+	flex-direction: space-between;
+/* 	width:100%; */
+	
+}
+div{
+	display:flex;
+	flex-direction:column;
+}
+.main{
+	width:30%;
+}
