@@ -13,16 +13,21 @@ img{
 	justify-content:center;
 
 	
-}.main{
+}.container{
 	display:flex;
-	flex-direction: space-between;
-/* 	width:100%; */
+	flex-direction: space-evenly;
+	width:150%;
+	margin:20px;
+	
+padding:20px;
+	
 	
 }
-div{
+.img{
 	display:flex;
-	flex-direction:column;
+	flex-flow:column;
 }
-.main{
+.m{
 	width:30%;
+text-align:center;
 }
