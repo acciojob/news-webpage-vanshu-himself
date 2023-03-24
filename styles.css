@@ -9,7 +9,7 @@ img{
 	color:white;
 	padding:20px;
 	display:flex;
-/* 	text-align: center; */
+	text-align: center;
 	justify-content:center;
 
 	
@@ -23,7 +23,7 @@ padding:20px;
 	
 	
 }
-.img{
+.pictorial-news-section{
 	display:flex;
 	flex-flow:column;
 }
